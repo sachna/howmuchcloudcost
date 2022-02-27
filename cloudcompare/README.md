@@ -1,6 +1,7 @@
 **Capstone Project**
 
 **Cloud Cost Comparision**
+![](images/UI1.JPG)
 
 **Synopsis**
 
