@@ -1,27 +1,21 @@
-# Cloudcompare
+**Capstone Project**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+**Cloud Cost Comparision**
 
-## Development server
+**Synopsis**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Last few years many organizations are moving to Cloud from on premise. Big organization hire consultancy to provide cloud migration path, which involves selection of cloud service provider (CSP) like Amazon, Microsoft. However small organizations, starts ups, students need to do own research to select cloud provider. There is no easy interactive solution for suggestion and comparison of cloud service providers. Lot of research is done to provide framework, guideline for choosing CSP. No easy open interactive system available based on such guideline for this. This project objective is to build interactive website which provides suggestions, comparison of CSP based on user needs. 
 
-## Code scaffolding
+**Research Question**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+How to select Cloud providers? 
+Which criteria affect the cost of Cloud hosting? 
+What is the cloud cost comparison for web based application across different Cloud Service Providers? 
 
-## Build
+**Problem Statement**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+**System Design**
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Conclusion**
